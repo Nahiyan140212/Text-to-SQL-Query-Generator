@@ -1,0 +1,8 @@
+streamlit
+sqlalchemy
+pymysql
+python-dotenv
+psycopg2
+speechRecognition
+pyAudio
+pipwin
